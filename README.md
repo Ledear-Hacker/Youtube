@@ -8,7 +8,7 @@ apt update
 apt upgrade
 pkg install python2
 pkg install git 
-git clone https://github.com/Ledear-Hacker/youtube-download
-cd youtube-download 
+git clone https://github.com/Ledear-Hacker/Youtube
+cd Youtube
 python2 alzaeem.py
 ```
